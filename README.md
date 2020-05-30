@@ -1,2 +1,4 @@
 # hello-world  ....
-My first code
+function abc() {
+console.log("Hello world");
+}
